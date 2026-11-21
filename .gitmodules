@@ -1,0 +1,3 @@
+[submodule "apps/qtdrama"]
+	path = apps/qtdrama
+	url = https://github.com/quanttide/qtdrama.git
