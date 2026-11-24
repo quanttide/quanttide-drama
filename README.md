@@ -7,6 +7,7 @@
 ## 目录
 
 - `apps/qtdrama` — 业务入口站（量潮影视）：作品与教学资源
+- `data/context` — 影视制作记忆仓：待归位日志与素材 (git submodule → quanttide-context-of-drama)
 
 ## 许可
 

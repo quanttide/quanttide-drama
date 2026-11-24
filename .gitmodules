@@ -1,3 +1,6 @@
 [submodule "apps/qtdrama"]
 	path = apps/qtdrama
 	url = https://github.com/quanttide/qtdrama.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-drama.git
