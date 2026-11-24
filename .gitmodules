@@ -3,4 +3,7 @@
 	url = https://github.com/quanttide/qtdrama.git
 [submodule "data/context"]
 	path = data/context
-	url = https://github.com/quanttide/quanttide-context-of-drama.git
+	url = https://github.com/quanttide/quanttide-context-of-drama-production.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-drama-production.git
